@@ -1,4 +1,4 @@
-name: Android CI
+name: TIÇÃO BABY
 
 on: [push, pull_request, workflow_dispatch]
 
